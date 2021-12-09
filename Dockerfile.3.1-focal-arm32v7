@@ -1,0 +1,7 @@
+# Tags: 3.1-focal-arm32v7
+FROM dotnet/runtime-deps:3.1-focal-arm32v7
+FROM dotnet/runtime-deps:3.1.21-focal-arm32v7
+FROM dotnet/runtime-deps:5.0-focal-arm32v7
+FROM dotnet/runtime-deps:5.0.12-focal-arm32v7
+FROM dotnet/runtime-deps:6.0.0-focal-arm32v7
+FROM dotnet/runtime-deps:6.0-focal-arm32v7
