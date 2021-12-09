@@ -1,7 +1,0 @@
-# Tags: 5.0-alpine-arm32v7
-FROM dotnet/runtime-deps:5.0-alpine-arm32v7
-FROM dotnet/runtime-deps:5.0-alpine3.14-arm32v7
-FROM dotnet/runtime-deps:5.0.12-alpine3.14-arm32v7
-FROM dotnet/runtime-deps:6.0-alpine-arm32v7
-FROM dotnet/runtime-deps:6.0-alpine3.14-arm32v7
-FROM dotnet/runtime-deps:6.0.0-alpine3.14-arm32v7

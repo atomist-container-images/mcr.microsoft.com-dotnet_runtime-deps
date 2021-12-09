@@ -1,7 +1,7 @@
-# Tags: 3.1-focal
-FROM dotnet/runtime-deps:3.1-focal
-FROM dotnet/runtime-deps:3.1.21-focal
-FROM dotnet/runtime-deps:5.0.12-focal-amd64
-FROM dotnet/runtime-deps:5.0-focal-amd64
-FROM dotnet/runtime-deps:6.0-focal-amd64
-FROM dotnet/runtime-deps:6.0.0-focal-amd64
+# Tags: 3.1-focal, 3.1.21-focal, 5.0-focal-amd64, 5.0.12-focal-amd64, 6.0-focal-amd64, 6.0.0-focal-amd64
+FROM mcr.microsoft.com/dotnet/runtime-deps:3.1-focal
+FROM mcr.microsoft.com/dotnet/runtime-deps:3.1.21-focal
+FROM mcr.microsoft.com/dotnet/runtime-deps:5.0-focal-amd64
+FROM mcr.microsoft.com/dotnet/runtime-deps:5.0.12-focal-amd64
+FROM mcr.microsoft.com/dotnet/runtime-deps:6.0-focal-amd64
+FROM mcr.microsoft.com/dotnet/runtime-deps:6.0.0-focal-amd64

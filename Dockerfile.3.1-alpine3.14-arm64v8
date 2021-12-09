@@ -1,0 +1,10 @@
+# Tags: 3.1-alpine3.14-arm64v8, 3.1-alpine-arm64v8, 3.1.21-alpine3.14-arm64v8, 5.0-alpine-arm64v8, 5.0-alpine3.14-arm64v8, 5.0.12-alpine3.14-arm64v8, 6.0-alpine3.14-arm64v8, 6.0-alpine-arm64v8, 6.0.0-alpine3.14-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:3.1-alpine3.14-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:3.1-alpine-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:3.1.21-alpine3.14-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:5.0-alpine-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:5.0-alpine3.14-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:5.0.12-alpine3.14-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:6.0-alpine3.14-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:6.0-alpine-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime-deps:6.0.0-alpine3.14-arm64v8
