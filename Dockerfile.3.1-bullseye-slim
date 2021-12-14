@@ -1,7 +1,0 @@
-# Tags: 3.1-bullseye-slim, 3.1.21-bullseye-slim, 5.0-bullseye-slim-amd64, 5.0.12-bullseye-slim-amd64, 6.0-bullseye-slim-amd64, 6.0.0-bullseye-slim-amd64
-FROM mcr.microsoft.com/dotnet/runtime-deps:3.1-bullseye-slim
-FROM mcr.microsoft.com/dotnet/runtime-deps:3.1.21-bullseye-slim
-FROM mcr.microsoft.com/dotnet/runtime-deps:5.0-bullseye-slim-amd64
-FROM mcr.microsoft.com/dotnet/runtime-deps:5.0.12-bullseye-slim-amd64
-FROM mcr.microsoft.com/dotnet/runtime-deps:6.0-bullseye-slim-amd64
-FROM mcr.microsoft.com/dotnet/runtime-deps:6.0.0-bullseye-slim-amd64

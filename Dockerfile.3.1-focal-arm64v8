@@ -1,7 +1,0 @@
-# Tags: 3.1-focal-arm64v8, 3.1.21-focal-arm64v8, 5.0-focal-arm64v8, 5.0.12-focal-arm64v8, 6.0-focal-arm64v8, 6.0.0-focal-arm64v8
-FROM mcr.microsoft.com/dotnet/runtime-deps:3.1-focal-arm64v8
-FROM mcr.microsoft.com/dotnet/runtime-deps:3.1.21-focal-arm64v8
-FROM mcr.microsoft.com/dotnet/runtime-deps:5.0-focal-arm64v8
-FROM mcr.microsoft.com/dotnet/runtime-deps:5.0.12-focal-arm64v8
-FROM mcr.microsoft.com/dotnet/runtime-deps:6.0-focal-arm64v8
-FROM mcr.microsoft.com/dotnet/runtime-deps:6.0.0-focal-arm64v8
